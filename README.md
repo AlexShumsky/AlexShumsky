@@ -1,3 +1,3 @@
-- 👋 Hi, I’m AlexShumsky
-- 👀 I’m interested in IT as well as in running
-- 📫 How to reach me "sanya.shumskiy.95@mail.ru"
+- 👋 Hi, I’m AlexShumsky and this is my CV:
+- https://AlexShumsky.github.io/rsschool-cv/
+
