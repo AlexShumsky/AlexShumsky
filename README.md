@@ -1,5 +1,4 @@
 - 👋 Hi, I’m AlexShumsky and this is my CV:
 - https://AlexShumsky.github.io/rsschool-cv/
-
--Video version:
-https://www.youtube.com/watch?v=W36eYe-RXSY
+- Video version:
+- https://www.youtube.com/watch?v=W36eYe-RXSY
