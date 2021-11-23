@@ -2,3 +2,4 @@
 - https://AlexShumsky.github.io/rsschool-cv/
 - Video version:
 - https://www.youtube.com/watch?v=W36eYe-RXSY
+- https://www.codewars.com/users/AlexShumsky/badges/large
